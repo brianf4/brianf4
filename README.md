@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian Fuentes</h1>
-<h3 align="center">A Full-Stack Software Engineer at 100Devs with a passion in looking for efficient solutions to complex problems.</h3>
+<h3 align="center">A Full-Stack Software Engineer with a passion in looking for efficient solutions to complex problems.</h3>
 
 <p align="left"> <a href="https://twitter.com/brianfuentes124" target="blank"><img src="https://img.shields.io/twitter/follow/brianfuentes124?logo=twitter&style=for-the-badge" alt="brianfuentes124" /></a> </p>
 
