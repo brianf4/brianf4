@@ -45,7 +45,7 @@
       </p>
         <p><strong>HTML, CSS, JavaScript</strong> - A site where you can order a drink. If you don't know what you want it can suggest you one!</p>
     </td>
-    <td width="50%" valign="top">
+<!--     <td width="50%" valign="top">
       <h3 align="center">Coming Soon</h3>
         <br />
       <a target="_blank" href="">
@@ -62,7 +62,7 @@
   </a>
       </p>
         <p><strong>Tech Used Goes here</strong> - Coming Soon</p>
-    </td>
+    </td> -->
   </tr>
   
  
