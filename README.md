@@ -24,4 +24,4 @@
 
 | Cocktail Bar | Second Header | Third Header|
 | ------------ | ------------  | ----------- |
-| <img src="https://github.com/brianf4/briansCocktailBar/blob/main/images/cocktailBarThumbnail.gif" width="100" height="100"> |
+| <img src="https://github.com/brianf4/briansCocktailBar/blob/main/images/cocktailBarThumbnail.gif" width="200" height="125"> |
