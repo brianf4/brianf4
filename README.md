@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brian Fuentes</h1>
 <h3 align="center">A Full-Stack Software Engineer with a passion in looking for efficient solutions to complex problems.</h3>
 
-- 🔭 I’m currently working on [Pokemon team builder](https://github.com/brianf4/pokemon-team-picker)
-
-- 🌱 I’m currently learning **Object-Oriented Programming**
-
-- 👨‍💻 All of my projects are available at [https://brianfuentes.netlify.app/](https://brianfuentes.netlify.app/)
-
 - 💬 Ask me about **the front-end and api's.**
 
 - 📫 How to reach me **Brian.Fuentes04@gmail.com**
@@ -25,3 +19,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brianf4&show_icons=true&locale=en" alt="brianf4" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brianf4&" alt="brianf4" /></p>
+
+| Projects |
+| -------- |
