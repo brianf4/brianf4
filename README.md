@@ -24,7 +24,46 @@
 
 <h2 align="center">Projects</h2>
 
-| Cocktail Bar | Second Header | Third Header|
-| ------------ | ------------  | ----------- |
-| <img src="https://github.com/brianf4/briansCocktailBar/blob/main/images/cocktailBarThumbnail.gif" width="200" height="125"> |
-| <a href="https://github.com/brianf4/briansCocktailBar" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a> |  
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Cocktail Bar</h3>
+        <br />
+        <a target="_blank" href="https://briansbar.netlify.app/">
+            <img src="https://github.com/brianf4/briansCocktailBar/blob/main/images/cocktailBarThumbnail.gif" width="100%" alt="Cocktail Bar Site"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/brianf4/briansCocktailBar" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Tech Used Goes here</strong> - Coming soon</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Coming Soon</h3>
+        <br />
+      <a target="_blank" href="">
+            <img src="" width="100%"  alt=""/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Tech Used Goes here</strong> - Coming Soon</p>
+    </td>
+  </tr>
+  
+ 
+</table>
