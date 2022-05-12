@@ -27,6 +27,4 @@
 | Cocktail Bar | Second Header | Third Header|
 | ------------ | ------------  | ----------- |
 | <img src="https://github.com/brianf4/briansCocktailBar/blob/main/images/cocktailBarThumbnail.gif" width="200" height="125"> |
-| <a href="https://github.com/brianf4/briansCocktailBar" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a> |  
+| <a href="https://github.com/brianf4/briansCocktailBar" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a> |  
