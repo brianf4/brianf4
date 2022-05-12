@@ -20,5 +20,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brianf4&" alt="brianf4" /></p>
 
-| Projects |
-| -------- |
+<h2 align="center">Projects</h2>
