@@ -21,3 +21,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brianf4&" alt="brianf4" /></p>
 
 <h2 align="center">Projects</h2>
+| Cocktail Bar | Second Header | Third Header|
+| ------------ | ------------  | ----------- |
+| ![Thumbnail pic of site](https://github.com/brianf4/briansCocktailBar/blob/main/images/cocktailBarThumbnail.gif) |
