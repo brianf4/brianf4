@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian Fuentes</h1>
 <h3 align="center">A Full-Stack Software Engineer with a passion in looking for efficient solutions to complex problems.</h3>
 
-- 💬 Ask me about **the front-end and api's.**
+- 💬 Ask me about **the front-end, api's, and Node.**
 
 - 📫 How to reach me **Brian.Fuentes04@gmail.com**
 
