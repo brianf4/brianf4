@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript</strong> - A site where you can order a drink. If you don't know what you want it can suggest you one!</p>
+        <p><strong>HTML, CSS, JavaScript</strong> - A site where you can order ask for a drink using an API. If you don't know what you want it can suggest you one!</p>
     </td>
 <!--     <td width="50%" valign="top">
       <h3 align="center">Coming Soon</h3>
