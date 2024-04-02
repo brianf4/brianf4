@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian Fuentes</h1>
 <h3 align="center">A Full-Stack Software Engineer with a passion in looking for efficient solutions to complex problems.</h3>
 
-- 💬 Ask me about **keyboards, Dota2, or the most current show I'm watching**
+- 💬 Ask me about **keyboards, Dota 2, or the most current show I'm watching**
 
 - 📫 How to reach me **Brian.Fuentes04@gmail.com**
 
